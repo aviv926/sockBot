@@ -72,6 +72,10 @@ It was written in mind of the users and participants of the group and tries to c
 - Python 3.7 (May work with later versions too)
 
 ### Installation:
+**important** install
+git from [here ](https://git-scm.com/downloads)
+ffempg from [here ]( https://github.com/BtbN/FFmpeg-Builds/releases)and also you need to add ffempg to path here is a [tutorial](https://www.thewindowsclub.com/how-to-install-ffmpeg-on-windows-10) 
+
 
 Clone this project
 
